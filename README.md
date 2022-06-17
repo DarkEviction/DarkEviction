@@ -37,7 +37,7 @@
 </h4>
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{DarkEviction}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{DarkEviction}/count.svg)
 <h3>
 <i>TOOLS FROM DarkEviction :-)</i>
 </h3>
