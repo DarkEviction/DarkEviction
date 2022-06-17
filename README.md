@@ -27,9 +27,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mao2116&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkEviction&show_icons=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEviction&layout=compact&theme=dark)
 
 <br>
 <h4>
@@ -39,6 +39,3 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{DarkEviction}/count.svg)
 <h3>
-<i>TOOLS FROM DarkEviction :-)</i>
-</h3>
-<br>
