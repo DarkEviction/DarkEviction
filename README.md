@@ -1,38 +1,53 @@
-<!-- Github README -->
-<p align="center"><a href="https://github.com/htr-tech">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=htr-tech&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" />
-</a></p>
+<!-- HOW THIS WORK BRO🖕🖕🖕-->
+<div>
+  <a href="https://www.facebook.com/mao2116/">
+    <img width="185" heigth="185" src="https://github.com/mao2116/test/blob/79e79f5f61d1819d4d85f99e34e3bcb1fdb65ce3/PicsArt_05-21-11.47.49.png?raw=true" align="left">
+<img width="35" heigth="35" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png">
+</a>
+<br>
+<a href="https://linktr.ee/mao2116">
+<img width="50" heigth="35" src="https://raw.githubusercontent.com/mao2116/test/main/linktree.png">
+</a>
+<i></i>
+</div>
 
-<h2><b><i>Howdy , it's Tahmid Rayat 👋</i></b></h2>
-<b><i>💻 I'm a Student & A part time Programmer</i></b>
+<embed name="Hack/MUSIC" src="https://e.top4top.io/m_1967ahko90.mp3" loop="true" hidden="true" autostart="true">
+<br><br><br><br><br><br><br><br><br>
+<div align="center">
+<b><i>THINK ABOUT DYNAMITE LITTLE BUT DENGROUS</i></b>
+</div>
+<h2><i> LOVE WITH ATTITUDE  : </i></h2>
 
-<h3><b><i>🤠 About me :</i></b></h3>
-<li> 🇧🇩 <i>Resident of Bangladesh</i></li>
-<li> 😇 <i>Muslim</i></li>
-<li> 😐 <i>Studying at Kindergarten</i></li>
-<li> 😪 <i>Love Sleeping</i></li>
-<li> 💔 <i>Born Single</i></li>
-<li> 🐍 <i>Trying to learn Python & SQLI</i></li>
-<li> 🤐 <i>Aim : Become a Software Engineer</i></li>
+<li><i>JUST KEEP IT UP 🙃</li></i>
+<li><i>WORK FOR SUCCESS 😊</li></i>
+<li><i>LOVE MY MOM AND DAD 💞</li></i>
+<br>
 
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/htr-tech/zphisher">Zphisher - Automated Phishing Tool with 30+ Unique Phishing Templates.</a>
-<li> <a href="https://github.com/htr-tech/nexphisher">NexPhisher - Advanced Phishing Tool with Unique Phishing Templates.</a>
-<li> <a href="https://github.com/hax0rtahm1d/Reverse-Engineering">Reverse Engineering - Some Tools Reverse Engineered by me.</a>
-<li> <a href="https://github.com/htr-tech/host">Host - Temporarily Host Files from your device with this tool.</a>
-<li> <a href="https://github.com/htr-tech/track-ip">Track-IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/modded-ubuntu/modded-ubuntu">Modded Ubuntu - Run Ubuntu GUI on termux based on Proot-Distro.</a>
+### ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 -:)
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<img align="center" src="https://metrics.lecoq.io/mao2116">
 
-<h3><b><i>🏆 Profile Statistics :</i></b></h3>
-<a href="https://github.com/htr-tech"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
-<h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/htr-tech"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/tahmid.rayat.official"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/tahmid.rayat.official"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-<a href="https://www.instagram.com/tahmid.rayat"><img align="left" title="Instagram" alt="Instagram" width="30px" src="assets/instagram.png" /></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mao2116&show_icons=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
+
+<br>
+<h4>
+<i>VISITORS :-)</i>
+</h4>
+
+
+![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
+<h3>
+<i>TOOLS FROM MAO2116 :-)</i>
+</h3>
+<br>
+<a href="https://github.com/mao2116/mmail"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=mmail&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/tbomb_mao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=tbomb_mao&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/MCLONE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=MCLONE&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/MAO_TOOL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=MAO_TOOL&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/M_U_S"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=M_U_S&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/M404"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=M404&theme=dark" height="100" width="300"></a>
+<a href="https://github.com/mao2116/MFB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mao2116&repo=MFB&theme=dark" height="100" width="300"></a>
