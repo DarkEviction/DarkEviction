@@ -1,12 +1,12 @@
 ## HELLO I AM ```Dark Eviction```
 
-<p align="center"><a href="https://github.com/rixon-cochi"><img src="https://github.com/rixon-cochi/rixon-cochi/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
+<p align="center"><a href="https://github.com/DarkEviction"><img src="https://github.com/DarkEviction/DarkEviction/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
 
 <p align="center"><a href="https://github.com/DarkEviction"><img title="DarkEviction" src="https://github-readme-stats.vercel.app/api?username=DarkEviction&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rh077king&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEviction&layout=compact&theme=dark)
 
 <p align="center">
 <a href="https://t.me/DarkEviction"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
