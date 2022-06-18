@@ -19,5 +19,16 @@
 
 
 
+
+### ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 -:)
+
+<img align="center" src="https://metrics.lecoq.io/mao2116">
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mao2116&show_icons=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
+
 ![Visitor Count](https://profile-counter.glitch.me/{DarkEviction}/count.svg)
 <h3>
