@@ -6,6 +6,7 @@
 <p align="center"><a href="https://github.com/DarkEviction"><img title="DarkEviction" src="https://github-readme-stats.vercel.app/api?username=DarkEviction&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rh077king&layout=compact&theme=dark)
 
 <p align="center">
 <a href="https://t.me/DarkEviction"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
@@ -19,10 +20,6 @@
 
 
 
-
-### ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 -:)
-
-<img align="center" src="https://metrics.lecoq.io/mao2116">
 
 
 
