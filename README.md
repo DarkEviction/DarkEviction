@@ -1,42 +1,29 @@
+## HELLO I AM ```TECH COCHI```
 
-<!-- HOW THIS WORK BRO🖕🖕🖕-->
-<div>
-  <a href="https://www.facebook.com/DarkEviction">
-    <img width="185" heigth="185" src="https://j.top4top.io/p_2359izypq0.png" align="left">
-<img width="35" heigth="35" src="https://raw.githubusercontent.com/fh-rabbi/Hack-Box/main/images/fb.png">
-</a>
-<br>
-</a>
-<i></i>
-</div>
-
-<embed name="Hack/MUSIC" src="https://e.top4top.io/m_1967ahko90.mp3" loop="true" hidden="true" autostart="true">
-<br><br><br><br><br><br><br><br><br>
-<div align="center">
-<b><i>THINK ABOUT DYNAMITE LITTLE BUT DENGROUS</i></b>
-</div>
-<h2><i> LOVE WITH ATTITUDE  : </i></h2>
-
-<li><i>JUST KEEP IT UP 🙃</li></i>
-<li><i>WORK FOR SUCCESS 😊</li></i>
-<li><i>LOVE MY MOM AND DAD 💞</li></i>
-<br>
-
-### ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 -:)
-
-<img align="center" src="https://metrics.lecoq.io/mao2116">
+<p align="center"><a href="https://github.com/rixon-cochi"><img src="https://github.com/rixon-cochi/rixon-cochi/blob/main/IMG/Hack-This-SIte-Basic-9-ngr-5QXatUvRfM.gif"=alt"bt">
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mao2116&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
-
-<br>
-<h4>
-<i>VISITORS :-)</i>
-</h4>
+<p align="center"><a href="https://github.com/rixon-cochi"><img title="TECH-COCHI" src="https://github-readme-stats.vercel.app/api?username=rixon-cochi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+</p>
 
 
-![Visitor Count](https://profile-counter.glitch.me/{DarkEviction}/count.svg)
-<h3>
+<p align="center">
+<a href="https://paypal.me/techcochi?locale.x=en_GB"><img title="Paypal" src="https://img.shields.io/badge/Paypal-blue?style=for-the-badge&logo=Paypal"></a>
+<a href="https://t.me/techcochihack"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://youtube.com/c/HYDRAGAMING4U"><img title="Youtube" src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://techcoch.blogspot.com/?m=1"><img title="Blogger" src="https://img.shields.io/badge/Blogger-gold?style=for-the-badge&logo=Blogger"></a>
+
+
+<p align="center">
+<a href="https://github.com/rixon-cochi/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=SMF&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/Lucifer"><img title="Lucifer" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=Lucifer&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/hacking-tool"><img title="hacking-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=hacking-tool&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/telegram_bitcoin_bot"><img title="telegram_bitcoin_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=telegram_bitcoin_bot&theme=highcontrast"></a>
+<a href="https://github.com/rixon-cochi/facebook-video-downloader"><img title="facebook-video-downloader" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=facebook-video-downloader&theme=highcontrast"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rixon-cochi"><img title="rixon-cochi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixon-cochi&layout=compact"></a>
+</p>
+
+<p align="center"> MALAYALAM YOUTUBER 
