@@ -6,7 +6,7 @@
 <p align="center"><a href="https://github.com/DarkEviction"><img title="DarkEviction" src="https://github-readme-stats.vercel.app/api?username=DarkEviction&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKXVAU&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkEviction&layout=compact&theme=dark)
 
 <p align="center">
 <a href="https://t.me/DarkEviction"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
