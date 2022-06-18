@@ -1,6 +1,6 @@
 ## HELLO I AM ```Dark Eviction```
-<center>
- <img width="200" heigth="185" src="https://j.top4top.io/p_2359izypq0.png" align="left">
+
+<img width="200" heigth="185" src="https://j.top4top.io/p_2359izypq0.png" align="left">
 <img width="35" heigth="35"
 
 
