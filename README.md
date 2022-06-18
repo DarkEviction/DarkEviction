@@ -13,17 +13,3 @@
 <a href="https://darkeviction.blogspot.com"><img title="Blogger" src="https://img.shields.io/badge/Blogger-gold?style=for-the-badge&logo=Blogger"></a>
 
 
-<p align="center">
-<a href="https://github.com/rixon-cochi/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=SMF&theme=highcontrast"></a>
-<a href="https://github.com/rixon-cochi/Lucifer"><img title="Lucifer" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=Lucifer&theme=highcontrast"></a>
-<a href="https://github.com/rixon-cochi/hacking-tool"><img title="hacking-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=hacking-tool&theme=highcontrast"></a>
-<a href="https://github.com/rixon-cochi/telegram_bitcoin_bot"><img title="telegram_bitcoin_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=telegram_bitcoin_bot&theme=highcontrast"></a>
-<a href="https://github.com/rixon-cochi/facebook-video-downloader"><img title="facebook-video-downloader" src="https://github-readme-stats.vercel.app/api/pin/?username=rixon-cochi&repo=facebook-video-downloader&theme=highcontrast"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/rixon-cochi"><img title="rixon-cochi" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixon-cochi&layout=compact"></a>
-</p>
-
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=27FF1A&background=CE6EFF00&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
