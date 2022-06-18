@@ -26,3 +26,4 @@
 </p>
 
 <p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=27FF1A&background=CE6EFF00&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
